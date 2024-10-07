@@ -1,0 +1,13 @@
+inport pandas as pd
+
+#Ruta del archivo EXCEL
+archivo_xlsx = 'locales.xlsx'
+
+try:
+    # Leer el archivo Excel
+    data = pd.read_xlsx(archivo_xlsx)
+
+
+-- Reglas
+	# Ordenar los locales por valorizado
+	# Eliminar los locales que sus valores sean cero
