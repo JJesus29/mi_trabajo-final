@@ -1,0 +1,7 @@
+<Inicio>
+
+# Obtener resultado de data transformada
+# Insertarlo en un archivo Excel = data_transformada
+# Exportarlo a la ruta: C:\Users\jcace\workspace\
+
+<Fin>

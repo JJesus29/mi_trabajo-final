@@ -1,3 +1,4 @@
+<Inicio>
 inport pandas as pd
 
 #Ruta del archivo EXCEL
@@ -9,5 +10,9 @@ try:
 
 
 -- Reglas
-	# Ordenar los locales por valorizado
+	# Ordenar los locales por Nombre
 	# Eliminar los locales que sus valores sean cero
+	# sacar el top 3 de los locales con mayor valor en ventas
+	# sacar el top 3 de los locales con menor valor en ventas
+
+<Fin>
